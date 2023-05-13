@@ -1,0 +1,42 @@
+export const storeInventoryData = [
+  {
+    id: 1,
+    name: 'Notebook',
+    category: 'Office',
+    price: 10.99,
+    imageSource: 'https://picsum.photos/id/217/200/',
+    count: 10,
+  },
+  {
+    id: 2,
+    name: 'Laptop',
+    category: 'Electronics',
+    price: 1199,
+    imageSource: 'https://picsum.photos/id/137/200/',
+    count: 5,
+  },
+  {
+    id: 3,
+    name: 'USB-C Cable',
+    category: 'Electronics',
+    price: 1.05,
+    imageSource: 'https://picsum.photos/id/27/200/',
+    count: 4,
+  },
+  {
+    id: 4,
+    name: 'Desktop Computer',
+    category: 'Electronics',
+    price: 14000,
+    imageSource: 'https://picsum.photos/id/37/200/',
+    count: 27,
+  },
+  {
+    id: 5,
+    name: 'Deskpad',
+    category: 'Office',
+    price: 4.99,
+    imageSource: 'https://picsum.photos/id/7/200/',
+    count: 89,
+  },
+];
